@@ -1,0 +1,332 @@
+.dropdown-items{
+    margin-top: -40px;
+    margin-left: 20px;
+}
+.second-item{
+    position: relative;
+    left: 236px;
+    bottom: 171px;
+}
+.third-item{
+    position: relative;
+    left: 448px;
+    bottom: 336px;
+}
+.container{
+    height: 1000px;
+    width: 600px;
+    /* border: 1px solid black; */
+}
+.first{
+    margin-top: 30px;
+    top: 327px;
+    left: 375px;
+    width: 270px;
+    height: 371px;
+    background: #F6F7F8 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+}
+.first-heading{
+    font-size: 20px;
+    font-weight: bold;
+    /* text-align: center; */
+}
+.first-list{
+    text-decoration: none;
+    margin-left: 0px;
+    color: black;
+}
+.second{
+    margin-top: 30px;
+    top: 728px;
+    left: 375px;
+    width: 270px;
+    height: 144px;
+    background: #F6F7F8 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+}
+.second-heading{
+    margin-left: 0px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.range{
+    margin-left: 0px;
+}
+.cost{
+    margin-left: 113px;
+}
+.third{
+    margin-top: 30px;
+    top: 902px;
+    left: 375px;
+    width: 270px;
+    height: 123px;
+    background: #F6F7F8 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+}
+.third-heading{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+/* .colors{
+    display: inline;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: green;
+    margin-left: 20px;
+}
+.colorstwo{
+    display: inline;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: blue;
+    margin-left: 20px;
+}
+.colorsthree{
+    display: inline;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: brown;
+    margin-left: 20px;
+}
+.colorsfour{
+    display: inline;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: orange;
+    margin-left: 20px;
+}
+.colorsfive{
+    display: inline;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: yellow;
+    margin-left: 20px;
+} */
+.four{
+    margin-top: 30px;
+    top: 1055px;
+    left: 375px;
+    width: 270px;
+    height: 245px;
+    background: #F6F7F8 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+}
+.right{
+    height: 1800px;
+    width: 1000px;
+    position: relative;
+    bottom: 974px;
+    left: 299px;
+    /* border: 1px solid black; */
+}
+.header{
+    position: relative;
+    /* top: 327px; */
+    right: 60px;
+    width: 1000px;
+    height: 340px;
+    background: #2E90E5 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+}
+.iphone{
+    position: relative;
+    bottom: 300px;
+    right: 236px;
+    width: 161px;
+    height: 52px;
+    text-align: left;
+    font: normal normal 300 42px/43px Proxima Nova;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.content{
+    position: relative;
+    bottom: 300px;
+    right: 236px;
+    /* font: normal normal 300 42px/43px Proxima Nova; */
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.shop{
+    position: relative;
+    bottom: 400px;
+    right: 0px;
+    /* font: normal normal 300 42px/43px Proxima Nova; */
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.iphone_img{
+    position: relative;
+    bottom: 455px;
+    left: 211px;
+}
+.products{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 1800px;
+    width: 1000px;
+    /* border: 1px solid black; */
+    position: relative;
+    bottom: 2433px;
+    left: 299px;
+}
+.product-cost{
+    font-weight: bold;
+}
+.product-img{
+    height: 310px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.buy-btn{
+    padding: 6px 6px;
+    border-radius: 10px;
+    background-color: blue;
+    border: 1px solid blue;
+    color: white;
+}
+.cart-btn{
+    padding: 6px 6px;
+    border-radius: 10px;
+    background-color: blue;
+    border: 1px solid blue;
+    color: white;
+    margin-left: 20px;
+}
+.iphone-img-home{
+    position: relative;
+    bottom: 340px;
+    left: 30px;
+}
+.home-product{
+    position: relative;
+    bottom: -62px;
+    left: 231px;
+    height: 1000px;
+    width: 997px;
+    /* border: 1px solid black; */
+}
+.best-sel{
+    font-size: 20px;
+    font-weight: bold;
+}
+.product-home{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 1193px;
+    width: 1300px;
+    /* border: 1px solid black; */
+    /* position: relative;
+    bottom: 2433px;
+    left: 299px;  */
+    margin-left: -240px;
+}
+.product-img-home{
+    height: 300px;
+    width: 300px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.home-lable{
+    padding: 6px;
+    position: relative;
+    bottom: 110px;
+    left: 70px;
+    background-color: crimson;
+    border-radius: 10px;
+}
+.cart{
+    position: relative;
+    top: 49px;
+    left: 60px;
+    padding: 9px 40px;
+    border-radius: 10px;
+    margin-left: 1000px;
+}
+.login-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Container{
+    width: 400px;
+    height: 800px;
+    margin-left: 570px;
+    margin-top: 100px;
+    /* border: 1px solid black; */
+}
+
+@media screen and (max-width: 700px){
+    .header{
+       display: none;
+    }
+    .iphone-img-home{
+        display: none;
+    }
+    .product-home{
+        flex-direction: column;
+        position: relative;
+        top: 396px;
+        right: 285px;
+    }
+    .product-img-home{
+        height: 600px;
+        width: 600px;
+    }
+    .product-name{
+        font-size: 60px;
+    }
+    .product-cost{
+        font-size: 40px;
+    }
+    .buy-btn{
+        padding: 20px 30px;
+        font-size: 30px;
+    }
+    .cart-btn{
+        padding: 20px 30px;
+        font-size: 30px;
+    }
+    .home-lable{
+        display: none;
+    }
+    .ishop{
+        height: 200px;
+        width: 400px;
+        position: relative;
+        top: 235px;
+        right: -71px;
+    }
+    .nav{
+        position: relative;
+        left: 233px;
+        top: 108px;
+        height: 30px;
+        width: 30px;
+    }
+    .best-sel{
+        display: none;
+    }
+}
